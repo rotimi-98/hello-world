@@ -32,6 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
+   <h1> An update to confirm learning is going on </h1>
 
   
 </form>
